@@ -18,7 +18,7 @@
     <title>Document</title>
 </head>
 <body>
-    Hello World
+    Hello this is Tanmay Modh
     <?php if(mysqli_num_rows($result) > 0): ?>
         <ul>
             <?php while($row= mysqli_fetch_object($result)): ?>
