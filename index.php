@@ -25,7 +25,7 @@
                 <li>
                     <?php echo $row->name; ?>
                 </li>
-            <?php endwhile; ?>
+            <?php endwhile; ?> //fghh
         </ul>
     <?php else: ?>
         <p>No Posts</p>
